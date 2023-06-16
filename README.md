@@ -15,7 +15,7 @@ After Adding all desired obstacles, you must right click to see the visibility t
 
 ##Implementation:
 
-Time Complexity O(nlogn) where n is the num of points based on an algorithm
+Time Complexity O(nlogn) where n is the num of points based on an algorithm proposed by DT Lee
 
 A rotating sweep line centered at the observor, is used to rank line segments in the order of closest intersection to observor to farthest. 
 
