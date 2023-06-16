@@ -4,7 +4,7 @@ This program outputs the visibility tree of a point on a 2D plane given obstacle
 
 **Note: Intersecting line segments may result in wrong output 
 
-**Controls: 
+##Controls: 
 
 First you must right click to position the observer at the mouse's current coordinates
 
@@ -13,7 +13,7 @@ will be automatically connected to form a linesegment
 
 After Adding all desired obstacles, you must right click to see the visibility tree of the observor
 
-**Implementation:
+##Implementation:
 
 Time Complexity O(nlogn) where n is the num of points based on an algorithm
 
